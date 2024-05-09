@@ -1,5 +1,6 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
-
+| [**Week →**](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/week.md) | [**Month →**](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/month.md) | [**Year →**](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Bypass-Recaptcha-V3-HTTPX](https://github.com/x404xx/Bypass-Recaptcha-V3-HTTPX)
 ![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/569869500/large/year.png)
 
@@ -23,10 +24,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>14</code>
 		</td>
 		<td>
-			<code>69</code>
+			<code>70</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/9 7:39 AM UTC</i></small>
+<small><i>Last updated on 2024/5/9 9:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/569869500/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/week.md)
 ```
 ### Header
-# Bypass-Recaptcha-V3-HTTPX [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/569869500/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/year.md)
+# Bypass-Recaptcha-V3-HTTPX [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/569869500/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/week.md)
 ```readme
-# Bypass-Recaptcha-V3-HTTPX [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/569869500/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/year.md)
+# Bypass-Recaptcha-V3-HTTPX [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/569869500/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/569869500/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,5 +1,6 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
-
+| [**Week →**](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/week.md) | [**Month →**](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/month.md) | [**Year →**](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Cloudflare-Checker](https://github.com/x404xx/Cloudflare-Checker)
 ![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/9 7:38 AM UTC</i></small>
+<small><i>Last updated on 2024/5/9 9:16 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/657516822/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/week.md)
 ```
 ### Header
-# Cloudflare-Checker [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/year.md)
+# Cloudflare-Checker [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/week.md)
 ```readme
-# Cloudflare-Checker [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/year.md)
+# Cloudflare-Checker [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

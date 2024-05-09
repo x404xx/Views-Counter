@@ -1,5 +1,6 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
-
+| [**Week →**](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/week.md) | [**Month →**](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/month.md) | [**Year →**](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Bypass-Recaptcha-V2-SELENIUM](https://github.com/x404xx/Bypass-Recaptcha-V2-SELENIUM)
 ![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/568649324/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/9 7:39 AM UTC</i></small>
+<small><i>Last updated on 2024/5/9 9:17 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/568649324/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/week.md)
 ```
 ### Header
-# Bypass-Recaptcha-V2-SELENIUM [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/568649324/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/year.md)
+# Bypass-Recaptcha-V2-SELENIUM [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/568649324/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/week.md)
 ```readme
-# Bypass-Recaptcha-V2-SELENIUM [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/568649324/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/year.md)
+# Bypass-Recaptcha-V2-SELENIUM [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/568649324/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/568649324/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

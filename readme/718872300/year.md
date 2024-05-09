@@ -1,5 +1,6 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
-
+| [**Week →**](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/week.md) | [**Month →**](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/month.md) | [**Year →**](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Port-Scanner](https://github.com/x404xx/Port-Scanner)
 ![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/718872300/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/9 7:39 AM UTC</i></small>
+<small><i>Last updated on 2024/5/9 9:18 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/718872300/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/week.md)
 ```
 ### Header
-# Port-Scanner [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/718872300/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/year.md)
+# Port-Scanner [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/718872300/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/week.md)
 ```readme
-# Port-Scanner [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/718872300/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/year.md)
+# Port-Scanner [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/718872300/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/718872300/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

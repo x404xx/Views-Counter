@@ -1,5 +1,6 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
-
+| [**Week →**](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/week.md) | [**Month →**](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/month.md) | [**Year →**](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Asy-Proxier](https://github.com/x404xx/Asy-Proxier)
 ![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/717643978/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/9 7:38 AM UTC</i></small>
+<small><i>Last updated on 2024/5/9 9:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/717643978/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/week.md)
 ```
 ### Header
-# Asy-Proxier [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/717643978/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/year.md)
+# Asy-Proxier [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/717643978/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/week.md)
 ```readme
-# Asy-Proxier [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/717643978/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/year.md)
+# Asy-Proxier [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/717643978/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/717643978/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

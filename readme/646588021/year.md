@@ -1,5 +1,6 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
-
+| [**Week →**](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/week.md) | [**Month →**](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/month.md) | [**Year →**](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [GPT-Collections](https://github.com/x404xx/GPT-Collections)
 ![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/646588021/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/9 7:40 AM UTC</i></small>
+<small><i>Last updated on 2024/5/9 9:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/646588021/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/week.md)
 ```
 ### Header
-# GPT-Collections [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/646588021/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/year.md)
+# GPT-Collections [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/646588021/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/week.md)
 ```readme
-# GPT-Collections [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/646588021/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/year.md)
+# GPT-Collections [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/646588021/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/646588021/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

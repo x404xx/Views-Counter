@@ -1,5 +1,6 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
-
+| [**Week →**](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/week.md) | [**Month →**](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/month.md) | [**Year →**](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/year.md) |
+| ---- | ---- | ----- |
 ### :octocat: [Tik-Down](https://github.com/x404xx/Tik-Down)
 ![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/725502998/large/year.png)
 
@@ -164,7 +165,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/9 7:38 AM UTC</i></small>
+<small><i>Last updated on 2024/5/9 9:16 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +174,9 @@
 [![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/725502998/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/week.md)
 ```
 ### Header
-# Tik-Down [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/725502998/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/year.md)
+# Tik-Down [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/725502998/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/week.md)
 ```readme
-# Tik-Down [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/725502998/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/year.md)
+# Tik-Down [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/725502998/small/week.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/725502998/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
