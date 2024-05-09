@@ -3,6 +3,29 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "Breach-Checker",
+    "Bing-Dalle",
+    "Recaptcha-V3",
+    "Insta-Down",
+    "Dorker-Searcher",
+    "Asy-Proxier",
+    "Tik-UDown",
+    "Tik-Down",
+    "Cloudflare-Checker",
+    "Bypass-Recaptcha-V2-SELENIUM",
+    "Bypass-Recaptcha-V3-HTTPX",
+    "Bard-CLI",
+    "Port-Scanner",
+    "POE-Api",
+    "TempMailGenerator-1SECMAIL",
+    "Py-Tor",
+    "GPT-Unli",
+    "Shako-CLI",
+    "LiteQuran-Scraper",
+    "GPT-Go",
+    "Proxy-Scraper",
+    "Stupid-GPT",
+    "GPT-Collections",
+    "Spoti-Tube-Downloader"
   ]
 }
