@@ -1,7 +1,7 @@
 ## [🔙 Views-Counter](https://github.com/x404xx/Views-Counter)
 
-### :octocat: [Cloudflare-Checker](https://github.com/x404xx/Cloudflare-Checker)
-![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/large/year.png)
+### :octocat: [IP-Finder](https://github.com/x404xx/IP-Finder)
+![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/graph/659024624/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>15</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>17</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>10</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>19</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/657516822/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/week.md)
+[![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/659024624/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/659024624/week.md)
 ```readme
-[![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/657516822/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/week.md)
+[![Image of Views-Counter](https://github.com/x404xx/Views-Counter/blob/master/svg/659024624/badge.svg)](https://github.com/x404xx/Views-Counter/blob/master/readme/659024624/week.md)
 ```
 ### Header
-# Cloudflare-Checker [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/year.md)
+# IP-Finder [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/659024624/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/659024624/year.md)
 ```readme
-# Cloudflare-Checker [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/657516822/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/657516822/year.md)
+# IP-Finder [<img alt="Image of Views-Counter" src="https://github.com/x404xx/Views-Counter/blob/master/graph/659024624/small/year.png" height="20">](https://github.com/x404xx/Views-Counter/blob/master/readme/659024624/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
