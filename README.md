@@ -435,9 +435,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/640534444/small/week.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/804512503/week.md">
+				Captcha-Gen
+			</a>
+		</td>
+		<td>
+			2024/5/19 6:31 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/804512503/small/week.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/5/22 6:17 PM UTC</i></small>
+<small><i>Last updated on 2024/5/22 6:31 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
