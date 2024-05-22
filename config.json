@@ -3,6 +3,7 @@
   "advancedMode": "true",
   "language": "en-US",
   "repository": [
+    "Captcha-Gen",
     "Fb-Down",
     "Breach-Checker",
     "Bing-Dalle",
@@ -28,7 +29,6 @@
     "Proxy-Scraper",
     "Stupid-GPT",
     "GPT-Collections",
-    "Spoti-Tube-Downloader",
-    "Captcha-Gen"
+    "Spoti-Tube-Downloader"
   ]
 }
