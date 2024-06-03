@@ -21,6 +21,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/809909218/week.md">
+				Typing-Assist
+			</a>
+		</td>
+		<td>
+			2024/5/31 5:34 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/809909218/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/808330638/week.md">
 				Down-Detector
 			</a>
@@ -485,7 +501,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/3 12:21 PM UTC</i></small>
+<small><i>Last updated on 2024/6/3 5:43 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
