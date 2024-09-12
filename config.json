@@ -3,6 +3,7 @@
   "advancedMode": "true",
   "language": "en-US",
   "repository": [
+    "DNS-Leaker",
     "Perfume-Checker",
     "Turnstile-Solver",
     "Typing-Assist",
