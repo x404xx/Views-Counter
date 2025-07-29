@@ -437,6 +437,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645056894/week.md">
+				GPT-Unli
+			</a>
+		</td>
+		<td>
+			2025/7/27 1:04 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/645056894/small/week.png" height="20"> 16
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/644115755/week.md">
 				Shako-CLI
 			</a>
@@ -465,6 +481,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/664115134/small/week.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645064493/week.md">
+				GPT-Go
+			</a>
+		</td>
+		<td>
+			2025/7/27 1:05 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/645064493/small/week.png" height="20"> 10
 		</td>
 	</tr>
 	<tr>
@@ -533,7 +565,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/29 1:07 AM UTC</i></small>
+<small><i>Last updated on 2025/7/29 6:28 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
