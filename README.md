@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:52 AM UTC
+			2026/1/22 12:51 AM UTC
 		</td>
 		<td>
 			13
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:52 AM UTC
+			2026/1/22 12:51 AM UTC
 		</td>
 		<td>
 			72
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:53 AM UTC
+			2026/1/22 12:51 AM UTC
 		</td>
 		<td>
 			78
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			3066
+			3072
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/810632761/small/week.png" height="20"> 6874
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/810632761/small/week.png" height="20"> 6885
 		</td>
 	</tr>
 	<tr>
@@ -90,13 +90,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:53 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			45
+			46
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/809909218/small/week.png" height="20"> 138
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/809909218/small/week.png" height="20"> 139
 		</td>
 	</tr>
 	<tr>
@@ -106,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:54 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			614
+			616
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/808330638/small/week.png" height="20"> 1588
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/808330638/small/week.png" height="20"> 1590
 		</td>
 	</tr>
 	<tr>
@@ -122,13 +122,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			759
+			761
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/804601708/small/week.png" height="20"> 2383
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/804601708/small/week.png" height="20"> 2386
 		</td>
 	</tr>
 	<tr>
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:55 AM UTC
+			2026/1/22 12:53 AM UTC
 		</td>
 		<td>
 			132
@@ -154,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			371
+			372
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/800226468/small/week.png" height="20"> 1052
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/800226468/small/week.png" height="20"> 1053
 		</td>
 	</tr>
 	<tr>
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:54 AM UTC
 		</td>
 		<td>
 			1148
@@ -186,13 +186,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:56 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			271
+			272
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797383468/small/week.png" height="20"> 967
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797383468/small/week.png" height="20"> 968
 		</td>
 	</tr>
 	<tr>
@@ -202,13 +202,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			867
+			868
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/796135185/small/week.png" height="20"> 4040
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/796135185/small/week.png" height="20"> 4041
 		</td>
 	</tr>
 	<tr>
@@ -218,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:55 AM UTC
 		</td>
 		<td>
 			685
@@ -234,13 +234,109 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			1299
+			1309
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/655956330/small/week.png" height="20"> 3093
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/655956330/small/week.png" height="20"> 3104
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/717643978/week.md">
+				Asy-Proxier
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:56 AM UTC
+		</td>
+		<td>
+			164
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/717643978/small/week.png" height="20"> 564
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/734995621/week.md">
+				Tik-UDown
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:00 AM UTC
+		</td>
+		<td>
+			62
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/734995621/small/week.png" height="20"> 418
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/725502998/week.md">
+				Tik-Down
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:56 AM UTC
+		</td>
+		<td>
+			297
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/725502998/small/week.png" height="20"> 933
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/657516822/week.md">
+				Cloudflare-Checker
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:00 AM UTC
+		</td>
+		<td>
+			67
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/657516822/small/week.png" height="20"> 140
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/659024624/week.md">
+				IP-Finder
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:57 AM UTC
+		</td>
+		<td>
+			461
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/659024624/small/week.png" height="20"> 702
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/568649324/week.md">
+				Bypass-Recaptcha-V2-SELENIUM
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:57 AM UTC
+		</td>
+		<td>
+			773
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/568649324/small/week.png" height="20"> 2357
 		</td>
 	</tr>
 	<tr>
@@ -250,18 +346,226 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/1/21 12:00 AM UTC
+			2026/1/22 12:00 AM UTC
 		</td>
 		<td>
-			751
+			754
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569869500/small/week.png" height="20"> 3051
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569869500/small/week.png" height="20"> 3058
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/642893512/week.md">
+				Gemini-CLI
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:58 AM UTC
+		</td>
+		<td>
+			82
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/642893512/small/week.png" height="20"> 136
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/718872300/week.md">
+				Port-Scanner
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:58 AM UTC
+		</td>
+		<td>
+			22
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/718872300/small/week.png" height="20"> 52
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645990816/week.md">
+				POE-Api
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:00 AM UTC
+		</td>
+		<td>
+			152
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/645990816/small/week.png" height="20"> 220
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/573308126/week.md">
+				TempMailGenerator-1SECMAIL
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:00 AM UTC
+		</td>
+		<td>
+			928
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/573308126/small/week.png" height="20"> 1844
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/680694353/week.md">
+				Py-Tor
+			</a>
+		</td>
+		<td>
+			2026/1/22 12:59 AM UTC
+		</td>
+		<td>
+			48
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/680694353/small/week.png" height="20"> 124
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645056894/week.md">
+				GPT-Unli
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:00 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/645056894/small/week.png" height="20"> 17
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/644115755/week.md">
+				Shako-CLI
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/644115755/small/week.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/664115134/week.md">
+				LiteQuran-Scraper
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:00 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/664115134/small/week.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645064493/week.md">
+				GPT-Go
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:01 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/645064493/small/week.png" height="20"> 13
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/569889698/week.md">
+				Proxy-Scraper
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:01 AM UTC
+		</td>
+		<td>
+			243
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569889698/small/week.png" height="20"> 1082
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/647790552/week.md">
+				Stupid-GPT
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:01 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/647790552/small/week.png" height="20"> 13
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/646588021/week.md">
+				GPT-Collections
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:02 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/646588021/small/week.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/640534444/week.md">
+				Spoti-Tube-Downloader
+			</a>
+		</td>
+		<td>
+			2026/1/22 1:02 AM UTC
+		</td>
+		<td>
+			20
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/640534444/small/week.png" height="20"> 34
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/1/23 6:22 PM UTC</i></small>
+<small><i>Last updated on 2026/1/24 1:02 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
