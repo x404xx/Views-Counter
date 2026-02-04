@@ -547,9 +547,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/646588021/small/week.png" height="20"> 12
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/640534444/week.md">
+				Spoti-Tube-Downloader
+			</a>
+		</td>
+		<td>
+			2026/2/2 1:14 AM UTC
+		</td>
+		<td>
+			20
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/640534444/small/week.png" height="20"> 34
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/4 1:10 AM UTC</i></small>
+<small><i>Last updated on 2026/2/4 6:46 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
