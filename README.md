@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/809909218/week.md">
-				Typing-Assist
-			</a>
-		</td>
-		<td>
-			2026/2/16 1:05 AM UTC
-		</td>
-		<td>
-			47
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/809909218/small/week.png" height="20"> 140
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/808330638/week.md">
 				Down-Detector
 			</a>
@@ -133,38 +117,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/804563219/week.md">
-				Captcha-Gen
-			</a>
-		</td>
-		<td>
-			2026/2/16 1:06 AM UTC
-		</td>
-		<td>
-			133
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/804563219/small/week.png" height="20"> 329
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/800226468/week.md">
-				Fb-Down
-			</a>
-		</td>
-		<td>
-			2026/2/16 12:00 AM UTC
-		</td>
-		<td>
-			401
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/800226468/small/week.png" height="20"> 1097
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/797996315/week.md">
 				Breach-Checker
 			</a>
@@ -181,22 +133,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/797383468/week.md">
-				Bing-Dalle
-			</a>
-		</td>
-		<td>
-			2026/2/16 1:07 AM UTC
-		</td>
-		<td>
-			273
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797383468/small/week.png" height="20"> 969
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/796135185/week.md">
 				Recaptcha-V3
 			</a>
@@ -209,22 +145,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/796135185/small/week.png" height="20"> 4094
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/791634330/week.md">
-				Insta-Down
-			</a>
-		</td>
-		<td>
-			2026/2/16 1:08 AM UTC
-		</td>
-		<td>
-			697
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/791634330/small/week.png" height="20"> 2653
 		</td>
 	</tr>
 	<tr>
@@ -321,22 +241,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/659024624/small/week.png" height="20"> 715
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/568649324/week.md">
-				Bypass-Recaptcha-V2-SELENIUM
-			</a>
-		</td>
-		<td>
-			2026/2/16 12:00 AM UTC
-		</td>
-		<td>
-			803
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/568649324/small/week.png" height="20"> 2427
 		</td>
 	</tr>
 	<tr>
@@ -565,7 +469,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/18 12:45 PM UTC</i></small>
+<small><i>Last updated on 2026/2/18 6:44 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
