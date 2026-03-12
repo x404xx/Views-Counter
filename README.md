@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:02 AM UTC
+			2026/3/10 12:57 AM UTC
 		</td>
 		<td>
 			17
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:03 AM UTC
+			2026/3/10 12:57 AM UTC
 		</td>
 		<td>
 			83
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:03 AM UTC
+			2026/3/10 12:58 AM UTC
 		</td>
 		<td>
 			81
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			3235
+			3238
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/810632761/small/week.png" height="20"> 7100
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/810632761/small/week.png" height="20"> 7103
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:04 AM UTC
+			2026/3/10 12:59 AM UTC
 		</td>
 		<td>
 			47
@@ -106,13 +106,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:04 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			690
+			691
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/808330638/small/week.png" height="20"> 1679
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/808330638/small/week.png" height="20"> 1680
 		</td>
 	</tr>
 	<tr>
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 12:59 AM UTC
 		</td>
 		<td>
 			807
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:05 AM UTC
+			2026/3/10 1:00 AM UTC
 		</td>
 		<td>
 			134
@@ -154,13 +154,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:05 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			418
+			421
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/800226468/small/week.png" height="20"> 1116
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/800226468/small/week.png" height="20"> 1119
 		</td>
 	</tr>
 	<tr>
@@ -170,13 +170,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			1245
+			1248
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797996315/small/week.png" height="20"> 2429
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797996315/small/week.png" height="20"> 2432
 		</td>
 	</tr>
 	<tr>
@@ -186,13 +186,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			276
+			277
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797383468/small/week.png" height="20"> 972
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797383468/small/week.png" height="20"> 973
 		</td>
 	</tr>
 	<tr>
@@ -202,13 +202,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:06 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			921
+			923
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/796135185/small/week.png" height="20"> 4149
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/796135185/small/week.png" height="20"> 4158
 		</td>
 	</tr>
 	<tr>
@@ -218,13 +218,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			724
+			726
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/791634330/small/week.png" height="20"> 2699
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/791634330/small/week.png" height="20"> 2701
 		</td>
 	</tr>
 	<tr>
@@ -234,13 +234,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			1409
+			1411
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/655956330/small/week.png" height="20"> 3235
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/655956330/small/week.png" height="20"> 3239
 		</td>
 	</tr>
 	<tr>
@@ -250,7 +250,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:08 AM UTC
+			2026/3/10 1:02 AM UTC
 		</td>
 		<td>
 			166
@@ -266,7 +266,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:08 AM UTC
+			2026/3/10 1:03 AM UTC
 		</td>
 		<td>
 			68
@@ -282,13 +282,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:08 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			306
+			307
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/725502998/small/week.png" height="20"> 942
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/725502998/small/week.png" height="20"> 943
 		</td>
 	</tr>
 	<tr>
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:09 AM UTC
+			2026/3/10 1:03 AM UTC
 		</td>
 		<td>
 			73
@@ -314,13 +314,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:09 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			485
+			486
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/659024624/small/week.png" height="20"> 727
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/659024624/small/week.png" height="20"> 728
 		</td>
 	</tr>
 	<tr>
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 1:04 AM UTC
 		</td>
 		<td>
 			829
@@ -346,13 +346,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 12:00 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			808
+			809
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569869500/small/week.png" height="20"> 3194
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569869500/small/week.png" height="20"> 3195
 		</td>
 	</tr>
 	<tr>
@@ -362,7 +362,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:10 AM UTC
+			2026/3/10 1:05 AM UTC
 		</td>
 		<td>
 			87
@@ -378,7 +378,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:11 AM UTC
+			2026/3/10 1:05 AM UTC
 		</td>
 		<td>
 			22
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:11 AM UTC
+			2026/3/10 1:05 AM UTC
 		</td>
 		<td>
 			162
@@ -410,13 +410,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:11 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			973
+			974
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/573308126/small/week.png" height="20"> 1917
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/573308126/small/week.png" height="20"> 1922
 		</td>
 	</tr>
 	<tr>
@@ -426,13 +426,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:12 AM UTC
+			2026/3/10 12:00 AM UTC
 		</td>
 		<td>
-			50
+			51
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/680694353/small/week.png" height="20"> 132
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/680694353/small/week.png" height="20"> 133
 		</td>
 	</tr>
 	<tr>
@@ -442,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:12 AM UTC
+			2026/3/10 1:07 AM UTC
 		</td>
 		<td>
 			10
@@ -458,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:12 AM UTC
+			2026/3/10 1:07 AM UTC
 		</td>
 		<td>
 			1
@@ -474,7 +474,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:13 AM UTC
+			2026/3/10 1:07 AM UTC
 		</td>
 		<td>
 			7
@@ -490,7 +490,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:13 AM UTC
+			2026/3/10 1:08 AM UTC
 		</td>
 		<td>
 			7
@@ -501,28 +501,12 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/569889698/week.md">
-				Proxy-Scraper
-			</a>
-		</td>
-		<td>
-			2026/3/9 1:14 AM UTC
-		</td>
-		<td>
-			276
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569889698/small/week.png" height="20"> 1169
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/647790552/week.md">
 				Stupid-GPT
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:14 AM UTC
+			2026/3/10 1:08 AM UTC
 		</td>
 		<td>
 			11
@@ -538,7 +522,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:14 AM UTC
+			2026/3/10 1:09 AM UTC
 		</td>
 		<td>
 			8
@@ -554,7 +538,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/3/9 1:15 AM UTC
+			2026/3/10 1:09 AM UTC
 		</td>
 		<td>
 			20
@@ -565,7 +549,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/11 6:49 PM UTC</i></small>
+<small><i>Last updated on 2026/3/12 1:07 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
