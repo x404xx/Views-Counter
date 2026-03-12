@@ -501,6 +501,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/569889698/week.md">
+				Proxy-Scraper
+			</a>
+		</td>
+		<td>
+			2026/3/10 1:08 AM UTC
+		</td>
+		<td>
+			276
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569889698/small/week.png" height="20"> 1169
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/647790552/week.md">
 				Stupid-GPT
 			</a>
@@ -549,7 +565,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/12 1:07 AM UTC</i></small>
+<small><i>Last updated on 2026/3/12 6:50 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
