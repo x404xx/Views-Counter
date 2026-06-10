@@ -341,6 +341,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/569869500/week.md">
+				Bypass-Recaptcha-V3-HTTPX
+			</a>
+		</td>
+		<td>
+			2026/6/8 2:22 AM UTC
+		</td>
+		<td>
+			865
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569869500/small/week.png" height="20"> 3293
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/642893512/week.md">
 				Gemini-CLI
 			</a>
@@ -549,7 +565,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 2:14 AM UTC</i></small>
+<small><i>Last updated on 2026/6/10 9:47 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
