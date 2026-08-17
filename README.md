@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/914713142/week.md">
-				Beauty-Logo
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:30 AM UTC
-		</td>
-		<td>
-			19
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/914713142/small/week.png" height="20"> 19
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/856564592/week.md">
 				DNS-Leaker
 			</a>
@@ -133,22 +117,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/804563219/week.md">
-				Captcha-Gen
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:32 AM UTC
-		</td>
-		<td>
-			155
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/804563219/small/week.png" height="20"> 357
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/800226468/week.md">
 				Fb-Down
 			</a>
@@ -161,22 +129,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/800226468/small/week.png" height="20"> 1249
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/797996315/week.md">
-				Breach-Checker
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:33 AM UTC
-		</td>
-		<td>
-			1470
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/797996315/small/week.png" height="20"> 2762
 		</td>
 	</tr>
 	<tr>
@@ -261,38 +213,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/734995621/week.md">
-				Tik-UDown
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:35 AM UTC
-		</td>
-		<td>
-			69
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/734995621/small/week.png" height="20"> 442
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/725502998/week.md">
-				Tik-Down
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:35 AM UTC
-		</td>
-		<td>
-			330
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/725502998/small/week.png" height="20"> 980
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/657516822/week.md">
 				Cloudflare-Checker
 			</a>
@@ -373,22 +293,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/718872300/week.md">
-				Port-Scanner
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:37 AM UTC
-		</td>
-		<td>
-			27
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/718872300/small/week.png" height="20"> 57
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645990816/week.md">
 				POE-Api
 			</a>
@@ -437,70 +341,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645056894/week.md">
-				GPT-Unli
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:38 AM UTC
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/645056894/small/week.png" height="20"> 18
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/644115755/week.md">
-				Shako-CLI
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:39 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/644115755/small/week.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/664115134/week.md">
-				LiteQuran-Scraper
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:39 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/664115134/small/week.png" height="20"> 8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/645064493/week.md">
-				GPT-Go
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:39 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/645064493/small/week.png" height="20"> 17
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/569889698/week.md">
 				Proxy-Scraper
 			</a>
@@ -515,57 +355,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/569889698/small/week.png" height="20"> 1238
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/647790552/week.md">
-				Stupid-GPT
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:40 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/647790552/small/week.png" height="20"> 15
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/646588021/week.md">
-				GPT-Collections
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:40 AM UTC
-		</td>
-		<td>
-			10
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/646588021/small/week.png" height="20"> 15
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/x404xx/Views-Counter/tree/master/readme/640534444/week.md">
-				Spoti-Tube-Downloader
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:41 AM UTC
-		</td>
-		<td>
-			22
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/x404xx/Views-Counter/raw/master/graph/640534444/small/week.png" height="20"> 37
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 12:29 PM UTC</i></small>
+<small><i>Last updated on 2026/8/17 6:27 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
