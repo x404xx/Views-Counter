@@ -151,21 +151,10 @@
 			<code>48</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2025/10/1</code>
-		</td>
-		<td>
-			<code>18</code>
-		</td>
-		<td>
-			<code>40</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/10/31 8:49 PM UTC</i></small>
+<small><i>Last updated on 2026/11/1 2:59 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
